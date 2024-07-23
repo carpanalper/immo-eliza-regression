@@ -15,6 +15,7 @@ This repository contains the following files and directories:
 - `forest_model.pkl` - Pickled file containing the trained Random Forest model.
 - `xgb_regressor.pkl` - Pickled file containing the trained XGBoost model.
 - `README.md` - This README file containing project details and instructions.
+- `requirements.txt` - The required packages 
 
 - `final_dataset.json` - The raw dataset used for cleaning and preprocessing. (to be downloaded)
 - `clean_immo.csv` - The cleaned and preprocessed dataset ready for model training.
@@ -36,7 +37,7 @@ You can install the required packages using the provided `requirements.txt` file
 ```sh
 pip install -r requirements.txt
 ```
-**Raw Data File**: Please download the raw data from: `https://drive.google.com/file/d/1Ww_pnsQpAGj_LRGUNji6yFgeFeV9pzrd/view?usp=drive_link`
+**Raw Data File**: Please download the raw data from: <https://drive.google.com/file/d/1Ww_pnsQpAGj_LRGUNji6yFgeFeV9pzrd/view?usp=drive_link>
 
 ### Running the Scripts
 
