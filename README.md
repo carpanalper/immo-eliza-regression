@@ -11,15 +11,17 @@ This repository contains the following files and directories:
 - `cleaning.py` - Script for data cleaning and preprocessing.
 - `training.py` - Script for training machine learning models.
 - `testing.py` - Script for testing trained models and evaluating their performance.
-- `linear_regressor.pkl` - Pickled file containing the trained Linear Regression model.
-- `forest_model.pkl` - Pickled file containing the trained Random Forest model.
-- `xgb_regressor.pkl` - Pickled file containing the trained XGBoost model.
 - `README.md` - This README file containing project details and instructions.
 - `requirements.txt` - The required packages 
 
 - `final_dataset.json` - The raw dataset used for cleaning and preprocessing. (to be downloaded)
+
 - `clean_immo.csv` - The cleaned and preprocessed dataset ready for model training.
-ps:`clean_immo.csv` will be created automatically after running; `cleaning.py`
+**will be created automatically after running; `cleaning.py`**
+- `linear_regressor.pkl` - Pickled file containing the trained Linear Regression model.
+- `forest_model.pkl` - Pickled file containing the trained Random Forest model.
+- `xgb_regressor.pkl` - Pickled file containing the trained XGBoost model.
+**will be created automatically after running; `training.py`**
 
 ## Instructions
 
